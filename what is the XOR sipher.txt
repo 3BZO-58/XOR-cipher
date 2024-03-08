@@ -1,0 +1,6 @@
+--XOR sipher--
+Hi
+
+this sipher encrypt and decrypt a message given by the user and a key also it will be given by the user
+it apply a XOR logical gate between the letters in the message and the letters in the key.
+then it will represent it as a hexadecimal message .

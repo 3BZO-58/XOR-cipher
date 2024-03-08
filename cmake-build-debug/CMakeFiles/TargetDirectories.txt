@@ -1,0 +1,3 @@
+D:/c++ projects/clion projects/XOR_sipher/cmake-build-debug/CMakeFiles/XOR_sipher.dir
+D:/c++ projects/clion projects/XOR_sipher/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/c++ projects/clion projects/XOR_sipher/cmake-build-debug/CMakeFiles/rebuild_cache.dir
